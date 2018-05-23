@@ -1,0 +1,34 @@
+body{
+	padding-top: 50px;
+}
+.jumbotron{
+	background-image: url(images/2.jpg);
+	background-size: cover;
+	color:white;
+	text-align: center;
+}
+.card{
+	border: solid 10px #ccc;
+	text-align: center;
+}
+.btn{
+	border:none;
+	background-color: #ccc;
+	color: black;
+}
+footer{
+	text-align: center;
+}
+.cam{
+	border:solid 1px grey;
+}
+.cam i{
+	margin: 10px;
+}
+.ft{
+	background-color: #ccc;
+	border:solid 1px grey;
+}
+.ft p{
+	margin: 10px
+}
